@@ -1,0 +1,6 @@
+{
+  "name": "OmniTool Studio — The Swiss Army Knife of Digital Tools",
+  "description": "The all-in-one web utility platform for creators, developers, and businesses. Generate custom QR codes, sign & convert PDFs, process media, format code, and analyze text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
